@@ -5,6 +5,11 @@
 
 > 仓库包含源码和可安装的 debug APK；模型权重、数据库数据、用户上传图片不包含在仓库内。
 
+## 下载 APK
+
+- [CitrusLens-v1.4-debug.apk](https://github.com/lixinyi061230-dotcom/citrus-lens/releases/download/v1.4/CitrusLens-v1.4-debug.apk)
+- [GitHub Release v1.4](https://github.com/lixinyi061230-dotcom/citrus-lens/releases/tag/v1.4)
+
 ## 功能
 
 - 手机端：游客先看首页，点“检测/记录/我的”再登录，登录后回到原页面
