@@ -1,0 +1,17 @@
+.DS_Store
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.py[cod]
+target/
+build/
+.gradle/
+local.properties
+.idea/
+.vscode/
+.env
+.env.local
+.env.*.local
+*.log
+web/android/app/src/main/assets/public/

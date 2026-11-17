@@ -1,0 +1,20 @@
+{
+  "name": "橘鉴 · 柑橘病害智能诊断",
+  "short_name": "橘鉴",
+  "description": "柑橘病害图片检测、记录与诊断工作台",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4EFE4",
+  "theme_color": "#0B2318",
+  "icons": [
+    { "src": "/pwa-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/pwa-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "shortcuts": [
+    { "name": "开始检测", "short_name": "检测", "url": "/#/imgPredict" },
+    { "name": "检测记录", "short_name": "记录", "url": "/#/imgRecord" }
+  ]
+}

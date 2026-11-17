@@ -1,0 +1,9 @@
+flask
+flask-socketio
+ultralytics
+torch
+torchvision
+opencv-python
+numpy
+pillow
+requests
